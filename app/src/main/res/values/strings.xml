@@ -1,0 +1,44 @@
+<resources>
+    <string name="day_1">Day 01</string>
+    <string name="day_2">Day 02</string>
+    <string name="day_3">Day 03</string>
+    <string name="day_4">Day 04</string>
+    <string name="day_5">Day 05</string>
+    <string name="day_6">Day 06</string>
+    <string name="day_7">Day 07</string>
+    <string name="day_8">Day 08</string>
+    <string name="day_9">Day 09</string>
+
+    <string name="app_name">Wellness App</string>
+    <string name="title_1">Start Your Day with Water</string>
+    <string name="title_2">Eat the Rainbow</string>
+    <string name="title_3">Prioritize Sleep</string>
+    <string name="title_4">Move Every Hour</string>
+    <string name="title_5">Mindful Eating</string>
+    <string name="title_6">Limit Sugar Intake</string>
+    <string name="title_7">Get Moving with a Workout Buddy</string>
+    <string name="title_8">Plan Your Meals</string>
+    <string name="title_9">Practice Gratitude</string>
+
+    <string name="description_1">Kickstart your metabolism by drinking a glass of water
+        first thing in the morning. Hydration helps boost energy and improves digestion.</string>
+    <string name="description_2">Incorporate a variety of colorful fruits and vegetables
+        into your meals. Each color represents different nutrients that are beneficial
+        for your health.</string>
+    <string name="description_3">Aim for 7-9 hours of quality sleep each night.
+        Good sleep helps with mental clarity, mood regulation, and overall health.</string>
+    <string name="description_4">Set a timer to remind you to stand up and move every hour.
+        Simple stretches or a short walk can improve circulation and energy levels.</string>
+    <string name="description_5">Practice mindful eating by savoring each bite and paying
+        attention to hunger cues. This can prevent overeating and enhance your dining
+        experience.</string>
+    <string name="description_6">Reduce your sugar consumption by choosing whole foods
+        over processed ones. Natural sweeteners like honey or fruit can be healthier
+        alternatives.</string>
+    <string name="description_7">Find a workout partner to help keep you motivated and
+        accountable. Exercising together can make workouts more enjoyable!</string>
+    <string name="description_8">Spend some time each week planning your meals.
+        This can save time and help you make healthier choices throughout the week.</string>
+    <string name="description_9">Start a gratitude journal and write down three things
+        you’re thankful for each day. This can improve mental well-being and reduce stress.</string>
+</resources>
